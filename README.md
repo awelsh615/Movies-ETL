@@ -14,7 +14,8 @@ The purpose of this project was to practice the Extract, Transform and Load data
 This result of this project is an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into a SQL database. 
 
 The resulting database contains two tables:
+Movies Table:
+![image](Resources/movies_query.PNG)
 
-![image](
-
+Ratings Table:
 ![image](
